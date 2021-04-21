@@ -5,6 +5,8 @@ https://deliorno.github.io/mesto-react/
 Проект чем-то напоминающий Instargram. Где есть возможность режактировать профиль, выкладывать фотографии, подписывать их, лайкать и разглядеть поближе.
 Есть возможность регистрации и авторизации пользователя.
 
+Технологии: JSX, CSS, React
+
 ## Available Scripts
 
 In the project directory, you can run:
